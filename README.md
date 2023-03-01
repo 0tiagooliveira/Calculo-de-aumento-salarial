@@ -1,4 +1,4 @@
-# Calculo-de-aumento-salarial-em-10-
+# Calculo-de-aumento-salarial
 Este código é uma implementação simples para calcular o aumento salarial de um funcionário em 10%. 
 
 salario = float(input('Qual é o salário de um funcionário: R$ '))
